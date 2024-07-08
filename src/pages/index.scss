@@ -1,0 +1,240 @@
+@keyframes iconAnimation {
+    0% {
+        opacity: 0;
+    }
+
+    50% {
+        opacity: 1;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
+
+body {
+    margin: 0;
+}
+
+html {
+    // background-color: #ff9d00;
+    background-color: #f4f1e6;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.2;
+    // letter-spacing: 0.1rem;
+
+    // padding: 0.5rem;
+    margin: 0;
+
+    a {
+        // text-decoration: none;
+        color: #000;
+        // color: #feae00;
+    }
+
+    header {
+
+        // div:nth-child(odd) {
+        //     background-color: #feae00;
+        // }
+
+        // div:nth-child(even) {
+        //     background-color: #f90040;
+        // }
+
+        div {
+            padding: 0.5rem;
+            // outline: 1px orange;
+            margin: -1px;
+
+        }
+
+        #logo {
+            // margin: 2rem 0rem;
+            margin-top: 0vh;
+        }
+    
+        .icons {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            gap: 1rem;
+            // height: 35vh;
+    
+            // width: 100vw;
+            .icon {
+                // background-color: #feae00;
+                // filter: invert(42%) sepia(93%) saturate(1352%) hue-rotate(87deg) brightness(50%) contrast(119%);
+    
+                // opacity: 0;
+                max-height: 100px;
+                // max-width: 170px;
+
+                // position: fixed;
+                top: 0;
+                left: 0;
+                // max-width: 100px;
+                // width: 18vw;
+                // visibility: visible;
+    
+                // animation-name: iconAnimation;
+                animation-iteration-count: infinite;
+                animation-fill-mode: both;
+                // animation-direction: alternate;
+    
+            }
+    
+            @for $i from 1 through 10 {
+                .icon:nth-child(#{$i}n) {
+                    // margin-top: -#{$i * 1}rem;
+                    animation-delay: #{$i * 1}s;
+                    animation-duration: #{$i * 1}s;
+                }
+            }
+    
+            #icon3 {
+                top: 10rem;
+                left: 1rem;
+                max-width: 90px;
+                // fill: green;
+                // filter: invert(42%) sepia(93%) saturate(1352%) hue-rotate(87deg) brightness(119%) contrast(119%);
+    
+            }
+        }
+    }
+
+    .content{
+        
+        div {
+            padding: 0.5rem;
+            margin: -1px;
+            min-height: 30vh;
+            box-sizing: border-box;
+            border: rgb(247, 186, 71);
+            border-style: solid;
+            overflow: hidden;
+
+            p{
+                margin: 0rem;
+            }
+        }
+
+        .about{
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            font-weight: 100;
+        }
+    }
+
+    span {
+        font-style: italic;
+    }
+}
+
+@media screen and (max-width: 720px) {
+    .icons {
+        height: 25vh;
+
+        .icon{
+            max-height: 100px;
+        }
+    }
+
+
+    .content{
+        
+        div {
+            border-width: 0.1px;
+            border-right: 0px;
+            border-left: 0px;
+
+            margin: -1px;
+        }
+
+        .about{
+            font-size: 1.25rem;
+        }
+
+        .call{
+            font-size: 1.25rem;
+            color: orange;
+
+        }
+    }
+
+}
+
+@media screen and (min-width: 720px) {
+    header {
+        width: 100%;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+
+        // display: flex;
+        // justify-content: space-between;
+        // overflow: hidden;
+        div{
+            margin: -1px;
+            overflow: hidden;
+        }
+
+        img {
+            display: inline;
+            object-fit: contain;
+            width: max-content;
+            // width: 100%;
+            // height: 100%;
+        }
+
+
+        #logo {
+            margin: 0rem 0rem;
+            margin-top: 0vh;
+
+            // width: 30vw;
+            width: 100%;
+        }
+
+        .icons {
+            // height: 20vh;
+            justify-content: left;
+            .icon {
+                margin-bottom: 0rem;
+                // height: 100vh;
+                // width: 10vw;
+                height: 170px;
+                max-width: 170px;
+            }
+        }
+
+    }
+
+    .content {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+
+        div{
+            border-width: 1px;
+            border: orange;
+            // border-width: 1px;
+            border-right: 0px;
+            border-style: solid;
+
+            margin: -1px;
+            overflow: hidden;
+            min-height: 30vh;
+        }
+
+
+        .about{
+            font-size: 2rem;
+        }
+        .call{
+            font-size: 2rem;
+            color: orange;
+        }
+        // gap: 20vh 1rem;
+    }
+
+
+}
