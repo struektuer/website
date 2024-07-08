@@ -97,7 +97,8 @@ const IndexPage = () => {
         </div>
         <div className="call">
           <p>
-            Our first open call for an artist in residence and future programs will be announced in June 2024.
+            STRÜKTÜR is delighted to announce Onur Hamilton Karaoğlu as the first artist-in-residence for its Artistic Research Residency, in partnership withABA Air Berlin Alexanderplatz from October 1st to December 1st.
+
           </p>
         </div>
 
