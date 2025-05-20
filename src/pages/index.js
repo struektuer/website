@@ -104,15 +104,7 @@ const IndexPage = () => {
 
         <div>
           <p>
-            Founded by <br />
-            Bengisu Çağlayan <br />
-            Gözde Gazioğlu (<span>Chair, Board Member</span>)  <br />
-            Yelta Köm <br />
-            Hatice Marx (<span>Board Member</span>) <br />
-            Tuna Ortaylı Kazıcı (<span>Treasurer, Board Member</span>) <br />
-            Vivien Tauchmann <br />
-            Alper Turan <br />
-            Prof. Dr. Füsun Türetken (<span>Chair, Board Member</span>)
+           
           </p>
         </div>
 
