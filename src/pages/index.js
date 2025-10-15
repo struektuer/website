@@ -125,13 +125,15 @@ const IndexPage = () => {
         {/* <div></div> */}
         {/* <div></div>
         <div></div> */}
-        {/* <p>
-          Executive Board <br />
+        {/ <p>
+          Founding Members<br />
           Prof. Dr. Füsun Türetken <br />
           Gözde Gazioğlu <br />
-          Tuna Ortaylı Kazıcı <br />
-          Hatice Marx
-        </p> */}
+          Tuna Ortaylı <br />
+          Bengisu Çağlayan  <br />
+          Yelta Köm <br />
+          Vivien Tauchmann <br />
+ </p> }
       </div>
     </main >
   )
