@@ -104,7 +104,13 @@ const IndexPage = () => {
 
         <div>
           <p>
-           
+            Founding Members<br />
+          Prof. Dr. Füsun Türetken <br />
+          Gözde Gazioğlu <br />
+          Tuna Ortaylı <br />
+          Bengisu Çağlayan  <br />
+          Yelta Köm <br />
+          Vivien Tauchmann <br />
           </p>
         </div>
 
@@ -125,15 +131,7 @@ const IndexPage = () => {
         {/* <div></div> */}
         {/* <div></div>
         <div></div> */}
-        {/ <p>
-          Founding Members<br />
-          Prof. Dr. Füsun Türetken <br />
-          Gözde Gazioğlu <br />
-          Tuna Ortaylı <br />
-          Bengisu Çağlayan  <br />
-          Yelta Köm <br />
-          Vivien Tauchmann <br />
- </p> }
+     
       </div>
     </main >
   )
