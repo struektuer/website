@@ -105,9 +105,9 @@ const IndexPage = () => {
         <div>
           <p>
             Founding Members<br /><br />
-          Prof. Dr. Füsun Türetken <br />
-          Gözde Gazioğlu <br />
-          Tuna Ortaylı <br />
+          Gözde Gazioğlu | Chair, Board<br />
+          Prof. Dr. Füsun Türetken | Chair, Board<br />
+          Tuna Ortaylı  | Board<br />
           Bengisu Çağlayan  <br />
           Yelta Köm <br />
           Vivien Tauchmann <br />
