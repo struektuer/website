@@ -104,7 +104,7 @@ const IndexPage = () => {
 
         <div>
           <p>
-            Founding Members<br />
+            Founding Members<br /><br />
           Prof. Dr. Füsun Türetken <br />
           Gözde Gazioğlu <br />
           Tuna Ortaylı <br />
