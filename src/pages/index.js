@@ -100,7 +100,23 @@ This extends into writing as an independent line of inquiry.
         <div className="call">
           <p>
 Artistic Research Residency 2024
+ <br />
 STRÜKTÜR’s Artistic Research Residency (October–December 2024), in partnership with ABA Air Berlin Alexanderplatz, featured Onur Hamilton Karaoğlu as its first resident artist. 
+<a href="https://airberlinalexanderplatz.de/profile/RzrrdEL6GXZKe7Aey4JzMyYQq4y2" target="_blank" rel="noopener noreferrer">
+  → Explore the residency
+</a>
+   <br />
+            <br />
+  The Rehearsal & The Playbook
+ <br />
+Goethe-Institut Visual Arts Project Fund 2025
+A long-term research and public programme that approaches rehearsal as a processual mode of inquiry, unfolding through artistic productions, discursive sessions with invited scholars, and commissioned writing—extending into The Playbook.
+<a href="https://savvy-contemporary.com/en/events/2025/the-rehearsal-the-playbook/" target="_blank" rel="noopener noreferrer">
+  → Explore the residency
+
+    <br />
+            <br />
+</a>
 
           </p>
         </div>
