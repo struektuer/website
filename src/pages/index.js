@@ -116,20 +116,40 @@ A long-term research and public programme that approaches rehearsal as a process
 
     <br />
             <br />
+  Reading Room
+  <br />
+  Commissioned writing bringing together voices across disciplines, forming its own line of inquiry.
+   <br />
+  Carlos Kong
+The Repertoire of Migrant-Situated Knowledge: On the Art of Cana Bilir-Meier
+<a href="https://drive.google.com/file/d/1c8IqaQznVMnieRSbXJKBwgYtjczd2rfg/view/" target="_blank" rel="noopener noreferrer">
+  → → Read
 </a>
+  <br />
+    Övgü Gökçe
+Weird Absurd Whatever: A Memoir for the Future
+<a href="https://drive.google.com/file/d/17wcBaVNALYHkR-yUfHuSpA2b7Y5VP2sM/view?usp=share_link" target="_blank" rel="noopener noreferrer">
+  → → Read
+</a>
+  <br />
+ Gökcan Demirkazık
+On Onur Hamilton Karaoğlu’s In Vain (2022/2024)
 
+<a href="https://drive.google.com/file/d/15X8XId6Fbz6OvoOHv9wRceKW_xkhZKOs/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+  → → Read
+</a>
+  <br />
           </p>
         </div>
 
         <div>
           <p>
-            Founding Members<br /><br />
+            Board Members<br /><br />
           Gözde Gazioğlu | Chair, Board<br />
-          Prof. Dr. Füsun Türetken | Chair, Board<br />
-          Tuna Ortaylı  | Board<br />
-          Bengisu Çağlayan  <br />
-          Yelta Köm <br />
-          Vivien Tauchmann <br />
+           Tuna Ortaylı  | Board<br />        
+  Prof. Dr. Füsun Türetken | Chair, Board<br />
+ 
+       
           </p>
         </div>
 
