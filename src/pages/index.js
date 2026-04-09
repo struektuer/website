@@ -91,13 +91,16 @@ const IndexPage = () => {
       <div className="content">
         <div className="about">
           <p>
-            STRÜKTÜR is a Berlin-based association dedicated to forming and expanding the support structures for arts & artists from the geography of Turkey. Its mission lies at the heart of the collective production of migratory and diasporic knowledge and the creation of trans-communal exchange. Through residencies, publications, workshops, and public programs; STRÜKTÜR aims to root, grow, and disperse artistic research and diasporic thinking transcending borders, communities, and generations.
+STRÜKTÜR is a Berlin-based non-profit situated at the intersection of artistic and research-based practices, engaging with entangled geographies of Turkey and beyond.
+It initiates and develops formats for inquiry across projects, residencies, and public programmes, shaping how knowledge is produced and opening discursive spaces that challenge and reshape existing infrastructures. 
+This extends into writing as an independent line of inquiry.
             <br />  <br />
           </p>
         </div>
         <div className="call">
           <p>
-            STRÜKTÜR is delighted to announce Onur Hamilton Karaoğlu as the first artist-in-residence for its Artistic Research Residency, in partnership with ABA Air Berlin Alexanderplatz from October 1st to December 1st 2024.
+Artistic Research Residency 2024
+STRÜKTÜR’s Artistic Research Residency (October–December 2024), in partnership with ABA Air Berlin Alexanderplatz, featured Onur Hamilton Karaoğlu as its first resident artist. 
 
           </p>
         </div>
