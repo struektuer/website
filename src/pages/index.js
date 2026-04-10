@@ -99,7 +99,7 @@ This extends into writing as an independent line of inquiry.
         </div>
         <div className="call">
           <p>
-Artistic Research Residency 2024
+<strong>Artistic Research Residency 2024</strong>
  <br />
 STRÜKTÜR’s Artistic Research Residency (October–December 2024), in partnership with ABA Air Berlin Alexanderplatz, featured Onur Hamilton Karaoğlu as its first resident artist. 
 <a href="https://airberlinalexanderplatz.de/profile/RzrrdEL6GXZKe7Aey4JzMyYQq4y2" target="_blank" rel="noopener noreferrer">
@@ -116,8 +116,8 @@ A long-term research and public programme that approaches rehearsal as a process
 </a>
     <br />
             <br />
-  Reading Room
-  <br />   <br />
+  <strong>Reading Room</strong>
+    <br />
   Commissioned writing bringing together voices across disciplines, forming its own line of inquiry.
    <br />
     <br /> Carlos Kong
