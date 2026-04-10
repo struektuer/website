@@ -103,7 +103,7 @@ Artistic Research Residency 2024
  <br />
 STRÜKTÜR’s Artistic Research Residency (October–December 2024), in partnership with ABA Air Berlin Alexanderplatz, featured Onur Hamilton Karaoğlu as its first resident artist. 
 <a href="https://airberlinalexanderplatz.de/profile/RzrrdEL6GXZKe7Aey4JzMyYQq4y2" target="_blank" rel="noopener noreferrer">
-  → Explore the residency
+   <br />  → Explore the residency
 </a>
    <br />
             <br />
@@ -112,31 +112,31 @@ STRÜKTÜR’s Artistic Research Residency (October–December 2024), in partner
 Goethe-Institut Visual Arts Project Fund 2025
 A long-term research and public programme that approaches rehearsal as a processual mode of inquiry, unfolding through artistic productions, discursive sessions with invited scholars, and commissioned writing—extending into The Playbook.
 <a href="https://savvy-contemporary.com/en/events/2025/the-rehearsal-the-playbook/" target="_blank" rel="noopener noreferrer">
-  → Explore the residency
+   <br />  → Explore the residency
 </a>
     <br />
             <br />
   Reading Room
-  <br />
+  <br />   <br />
   Commissioned writing bringing together voices across disciplines, forming its own line of inquiry.
    <br />
-  Carlos Kong
+    <br /> Carlos Kong
 The Repertoire of Migrant-Situated Knowledge: On the Art of Cana Bilir-Meier
 <a href="https://drive.google.com/file/d/1c8IqaQznVMnieRSbXJKBwgYtjczd2rfg/view/" target="_blank" rel="noopener noreferrer">
-  → → Read
+     <br />→ Read
 </a>
   <br />
-    Övgü Gökçe
+    <br />   Övgü Gökçe
 Weird Absurd Whatever: A Memoir for the Future
 <a href="https://drive.google.com/file/d/17wcBaVNALYHkR-yUfHuSpA2b7Y5VP2sM/view?usp=share_link" target="_blank" rel="noopener noreferrer">
-  → → Read
+    <br /> → Read
 </a>
   <br />
- Gökcan Demirkazık
+   <br /> Gökcan Demirkazık
 On Onur Hamilton Karaoğlu’s In Vain (2022/2024)
 
 <a href="https://drive.google.com/file/d/15X8XId6Fbz6OvoOHv9wRceKW_xkhZKOs/view?usp=sharing" target="_blank" rel="noopener noreferrer">
-  → → Read
+   <br />  → Read
 </a>
   <br />
           </p>
