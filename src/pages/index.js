@@ -113,7 +113,7 @@ Goethe-Institut Visual Arts Project Fund 2025
 A long-term research and public programme that approaches rehearsal as a processual mode of inquiry, unfolding through artistic productions, discursive sessions with invited scholars, and commissioned writing—extending into The Playbook.
 <a href="https://savvy-contemporary.com/en/events/2025/the-rehearsal-the-playbook/" target="_blank" rel="noopener noreferrer">
   → Explore the residency
-
+</a>
     <br />
             <br />
   Reading Room
